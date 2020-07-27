@@ -1,0 +1,20 @@
+Metadata-Version: 1.0
+Name: paytm
+Version: 0.1.8
+Summary: paytm payment gateway
+Home-page: http://github.com/harishbisht/paytm
+Author: Harish Bisht
+Author-email: harish@pickrr.com
+License: MIT
+Description: Paytm Python API
+        -----------------
+        
+        Installation:
+        -------------
+        
+        - Open the terminal and write::
+        
+            $ pip install paytm
+        
+        
+Platform: UNKNOWN
